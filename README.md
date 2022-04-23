@@ -24,10 +24,12 @@ Type "python maskDetector.py" in command prompt.
 
 # Output:
 ### Training the model and showing the accuracy:
-<img width="355" alt="image" src="https://user-images.githubusercontent.com/100423588/163228029-42f99aa0-053e-4dd5-9c10-1c4f2fe880d1.png">
+<img width="763" alt="image" src="https://user-images.githubusercontent.com/100423588/164910268-07c45b82-e26f-4773-af52-7b70e2336d20.png">
+<img width="727" alt="image" src="https://user-images.githubusercontent.com/100423588/164910277-f431c66d-1856-40c5-9721-9e067d9c3f98.png">
 
 ### Mask detection:
-<img width="355" alt="image" src="https://user-images.githubusercontent.com/100423588/163228029-42f99aa0-053e-4dd5-9c10-1c4f2fe880d1.png">
+<img width="527" alt="image" src="https://user-images.githubusercontent.com/100423588/164910323-d9f56924-fc5c-4b4d-8c73-29152b53ef80.png">
+
 
 
 

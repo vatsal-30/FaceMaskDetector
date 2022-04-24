@@ -28,7 +28,7 @@ Type "python maskDetector.py" in command prompt.
 <img width="727" alt="image" src="https://user-images.githubusercontent.com/100423588/164910277-f431c66d-1856-40c5-9721-9e067d9c3f98.png">
 
 ### Mask detection:
-<img width="527" alt="image" src="https://user-images.githubusercontent.com/100423588/164910323-d9f56924-fc5c-4b4d-8c73-29152b53ef80.png">
+
 
 
 

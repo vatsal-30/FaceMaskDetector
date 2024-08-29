@@ -1,7 +1,7 @@
-# Face mask detector
-The system detects face mask on the face and shows whether there is mask on the face or not.
+# Face Mask Detector
+Utilizing **Transfer Learning**, the system works on detecting a face mask in real-time. The model is trained on a **balanced dataset** of **7,500** samples on a pre-trained **MobileNetV2**.
 
-# Technologies used:
+## Technologies used:
 * Python
 * OpenCV 
 * MobileNetV2 (Pre-trained model)
@@ -11,18 +11,18 @@ The system detects face mask on the face and shows whether there is mask on the 
 * sklearn
 * matplotlib
 
-# Scope:
-* Detects whether the person has worn mask or not.
-* Can detect multiple faces in a single frame.
-* Has an accuracy of about 98 %.
+## Scope:
+* **Detects** for a face mask
+* Can detect **multiple** faces in a single frame
+* Has an accuracy of about **98%**
 
-# Execution:
+## Execution:
 ### Training part:
-Type "python trainMaskDetector.py" in command prompt.
+Type ```python trainMaskDetector.py``` in command prompt.
 ### Detection part:
-Type "python maskDetector.py" in command prompt.
+Type ```python maskDetector.py``` in command prompt.
 
-# Output:
+## Output:
 ### Training the model and showing the accuracy:
 <img width="763" alt="image" src="https://user-images.githubusercontent.com/100423588/164910268-07c45b82-e26f-4773-af52-7b70e2336d20.png">
 <img width="727" alt="image" src="https://user-images.githubusercontent.com/100423588/164910277-f431c66d-1856-40c5-9721-9e067d9c3f98.png">
